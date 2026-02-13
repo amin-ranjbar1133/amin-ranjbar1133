@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm AminRanjbar</h1>
 <h3 align="center">A Backend Master Developer in Kermanshah, Iran 🇮🇷</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
